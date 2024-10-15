@@ -1,0 +1,81 @@
+[
+    {
+      "id": 1,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://i.postimg.cc/3NCnts56/pngwing1.png",
+      "review": "A timeless classic that explores themes of racial injustice and moral growth.",
+      "totalPages": 281,
+      "rating": 4.5,
+      "category": "Fiction",
+      "tags": ["Classic", "Social Issues"],
+      "publisher": "HarperCollins",
+      "yearOfPublishing": 1960
+    },
+    {
+      "id": 2,
+      "bookName": "1984",
+      "author": "George Orwell",
+      "image": "https://i.postimg.cc/3xgmmXhS/kindpng-7318921.png",
+      "review": "A dystopian novel that serves as a warning against totalitarianism and surveillance.",
+      "totalPages": 328,
+      "rating": 4.3,
+      "category": "Science Fiction",
+      "tags": ["Dystopian", "Political"],
+      "publisher": "Secker & Warburg",
+      "yearOfPublishing": 1949
+    },
+    {
+      "id": 3,
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image": "https://i.postimg.cc/g2P6zxhv/kindpng-1064993.png",
+      "review": "A romantic comedy of manners set in early 19th-century England.",
+      "totalPages": 279,
+      "rating": 4.7,
+      "category": "Classic",
+      "tags": ["Romance", "Regency Era"],
+      "publisher": "T. Egerton, Whitehall",
+      "yearOfPublishing": 1813
+    },
+    {
+      "id": 4,
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://i.postimg.cc/Pfg4Bzty/kindpng-4022054-1.png",
+      "review": "An exploration of the American Dream and the decadence of the Jazz Age.",
+      "totalPages": 180,
+      "rating": 4.2,
+      "category": "Fiction",
+      "tags": ["Roaring Twenties", "American Dream"],
+      "publisher": "Charles Scribner's Sons",
+      "yearOfPublishing": 1925
+    },
+    {
+      "id": 5,
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "https://i.postimg.cc/HnXQpRp2/kindpng-81724-1.png",
+      "review": "A coming-of-age novel that explores themes of alienation and identity.",
+      "totalPages": 277,
+      "rating": 4.1,
+      "category": "Fiction",
+      "tags": ["Coming-of-age", "Teenage"],
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951
+    },
+    {
+      "id": 6,
+      "bookName": "Harry Potter ",
+      "author": "J.K. Rowling",
+      "image": "https://i.postimg.cc/R0WJSydH/kindpng-4945926-1.png",
+      "review": "The first book in the Harry Potter series, introducing readers to the magical world of Hogwarts.",
+      "totalPages": 309,
+      "rating": 4.8,
+      "category": "Fantasy",
+      "tags": ["Magic", "Wizards"],
+      "publisher": "Bloomsbury",
+      "yearOfPublishing": 1997
+    }
+  ]
+  
